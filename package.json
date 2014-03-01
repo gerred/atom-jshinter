@@ -1,7 +1,7 @@
 {
   "name": "atom-jshinter",
   "main": "./lib/atom-jshinter",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "private": true,
   "description": "A JSHinter with background line changes and gutter support.",
   "repository": "https://github.com/gerred/atom-jshinter",
