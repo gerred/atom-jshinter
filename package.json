@@ -1,0 +1,17 @@
+{
+  "name": "atom-jshinter",
+  "main": "./lib/atom-jshinter",
+  "version": "0.0.0",
+  "private": true,
+  "description": "A short description of your package",
+  "repository": "https://github.com/atom/atom-jshinter",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+    "jshint": "*",
+    "rcfinder": "*",
+    "emissary": "*"
+  }
+}

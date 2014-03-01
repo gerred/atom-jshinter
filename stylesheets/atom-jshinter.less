@@ -1,0 +1,21 @@
+// The ui-variables file is provided by base themes provided by Atom.
+//
+// See https://github.com/atom/atom-dark-ui/blob/master/stylesheets/ui-variables.less
+// for a full listing of what's available.
+@import "ui-variables";
+
+.icon-alert {
+  display: inline-block;
+  padding-left: .1em;
+  padding-right: .5em;
+  opacity: .7;
+  cursor: pointer;
+  transition: color 0.2s linear;
+  &:hover {
+    color: red;
+  }
+  &:before {
+    width: 10px;
+    font-size: 14px;
+  }
+}
