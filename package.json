@@ -3,7 +3,7 @@
   "main": "./lib/atom-jshinter",
   "version": "0.1.1",
   "private": true,
-  "description": "A short description of your package",
+  "description": "A JSHinter with background line changes and gutter support.",
   "repository": "https://github.com/gerred/atom-jshinter",
   "license": "MIT",
   "engines": {
